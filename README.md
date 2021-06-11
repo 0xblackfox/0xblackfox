@@ -37,10 +37,10 @@ I am BugBounty Hunter, CTF(Capture The Flag) Player and Cyber Security Enthusias
 
 #### Languages and Tools:
 <code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
-<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
-<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
-<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
-<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
+<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/php.jpg"></code>
+<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/javascript.png"></code>
+<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/bash.jpg"></code>
+<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/assembly.png"></code>
 
 ## $ Last But Not The Least
 
