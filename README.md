@@ -7,16 +7,16 @@
 I am BugBounty Hunter, CTF(Capture The Flag) Player and Cyber Security Enthusiast
 
 ### $ I am Learning
-  - 🔰 Python Programming
-  - 🔰 Shell Scripting
-  - 🔰 Binary Exploitation
-  - 🔰 Webapp Pentesting
-  - 🔰 Bug Bounty Hunting
+    - 🔰 Python Programming
+    - 🔰 Shell Scripting
+    - 🔰 Binary Exploitation
+    - 🔰 Webapp Pentesting
+    - 🔰 Bug Bounty Hunting
 
 ### $ My Passion 
-  - 🔰 Playing Games
-  - 🔰 Always Learn Something New
-  - 🔰 Anime Lover
+    - 🔰 Playing Games
+    - 🔰 Always Learn Something New
+    - 🔰 Anime Lover
 
 ## $ Personality 
 #### I am just a Simple Boy and Always try to think differently. , who has a keen interest in Web Application Security and who is beginner in bug bounties 
@@ -29,11 +29,11 @@ I am BugBounty Hunter, CTF(Capture The Flag) Player and Cyber Security Enthusias
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/0xblackfox/0xblackfox/blob/main/Intro/reading%20book.gif">
 
 ### Resources I Follow
-- 🔰 Medium Writeups
-- 🔰 BugCrowd University
-- 🔰 Twitter BugBounty Community
-- 🔰 HackerOne Disclosure Rportes
-- 🔰 Active BugHunter YouTube Channels
+    - 🔰 Medium Writeups
+    - 🔰 BugCrowd University
+    - 🔰 Twitter BugBounty Community
+    - 🔰 HackerOne Disclosure Rportes
+    - 🔰 Active BugHunter YouTube Channels
 
 #### Languages and Tools:
 <code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
