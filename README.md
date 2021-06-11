@@ -17,10 +17,8 @@ I am BugBounty Hunter, CTF(Capture The Flag) Player and Cyber Security Enthusias
   - 🔰 Playing Games
   - 🔰 Always Learn Something New
   - 🔰 Anime Lover
-  - 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/0xblackfox/0xblackfox/blob/main/Intro/reading%20book.gif">
 
-## $ Personality
+## $ Personality <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/0xblackfox/0xblackfox/blob/main/Intro/reading%20book.gif">
 #### I am just a Simple Boy and Always try to think differently. , who has a keen interest in Web Application Security and who is beginner in bug bounties 
 
 #### I Always love to making scripts in Bash and make automated python tools what always make me happy
