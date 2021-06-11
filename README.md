@@ -35,7 +35,9 @@ I am BugBounty Hunter, CTF(Capture The Flag) Player and Cyber Security Enthusias
 - 🔰 HackerOne Disclosure Rportes
 - 🔰 Active BugHunter YouTube Channels
 
-## Last But Not The Least
+##### Languages and Tools:
+
+## $ Last But Not The Least
 
 <p>I always keep in mind that :
 "Success is the sum of small effort, repeated day in and day out." </p>
