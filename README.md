@@ -35,7 +35,12 @@ I am BugBounty Hunter, CTF(Capture The Flag) Player and Cyber Security Enthusias
 - 🔰 HackerOne Disclosure Rportes
 - 🔰 Active BugHunter YouTube Channels
 
-##### Languages and Tools:
+#### Languages and Tools:
+<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
+<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
+<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
+<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
+<code><img height="20" src="https://github.com/0xblackfox/0xblackfox/blob/main/lang/python.png"></code>
 
 ## $ Last But Not The Least
 
