@@ -18,3 +18,4 @@ I am BugBounty Hunter, CTF(Capture The Flag) Player and Cyber Security Enthusias
   - 🔰 Always Learn Something New
   - 🔰 Anime Lover
 
+## Personality
