@@ -37,3 +37,7 @@ I am BugBounty Hunter, CTF(Capture The Flag) Player and Cyber Security Enthusias
 
 ## Last But Not The Least
 
+I always keep in mind that :
+Success is the sum of small effort, repeated day in and day out. 
+<p>So, I try to work harder than others</p>
+
