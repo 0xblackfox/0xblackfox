@@ -5,3 +5,12 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/0xblackfox/0xblackfox/blob/main/Intro/Amino%20Rage.gif">
 I am BugBounty Hunter , Security Enthusist and a CTF(Capture The Flag) Player.
+
+### Learning
+- 🔰 Software Engineering
+- 🔰 Python Programming
+- 🔰 Shell Scripting
+- 🔰 Binary Exploitation
+- 🔰 Webapp Pentesting
+- 🔰 Bug Bounty Hunting
+
