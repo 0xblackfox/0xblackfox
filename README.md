@@ -1,4 +1,4 @@
-## $ whoami
+## $ whoami <img hight="70" width="90" src="https://github.com/0xblackfox/0xblackfox/blob/main/Intro/typing%20keyboard.gif" width="30">
 
 <h2> Hey, I'm Kazi Ashikur Rahman (aka BlackFox)</h2>
 <h3>I am from Bangladesh and I'm a 21 years old boy who studies in <b>Software Engineering</b></h3>
