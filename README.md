@@ -28,4 +28,12 @@ I am BugBounty Hunter, CTF(Capture The Flag) Player and Cyber Security Enthusias
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/0xblackfox/0xblackfox/blob/main/Intro/reading%20book.gif">
 
+### Resources I Follow
+- 🔰 Medium Writeups
+- 🔰 BugCrowd University
+- 🔰 Twitter BugBounty Community
+- 🔰 HackerOne Disclosure Rportes
+- 🔰 Active BugHunter YouTube Channels
+
 ## Last But Not The Least
+
