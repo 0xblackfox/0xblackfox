@@ -48,5 +48,5 @@ I am BugBounty Hunter, CTF(Capture The Flag) Player and Cyber Security Enthusias
 "Success is the sum of small effort, repeated day in and day out." </p>
 <p>So, I try to work harder than others</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xblackfox&theme=onedark&" alt="0xblackfox" />  \t <img src="https://github-readme-stats.vercel.app/api?username=0xblackfox&show_icons=true&theme=gotham" alt="0xblackfox" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xblackfox&theme=onedark&" alt="0xblackfox" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=0xblackfox&show_icons=true&theme=gotham" alt="0xblackfox" />
 
